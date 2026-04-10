@@ -1,4 +1,3 @@
-# E For Real — Fake News Detector
 ### Fake News Detection in Philippine News using Support Vector Machine (SVM)
 
 > **Developed by:** Team LiveANet  
