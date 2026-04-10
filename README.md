@@ -40,7 +40,7 @@
 
 ## Overview
 
-**E For Real** is a fake news detection system designed specifically for Philippine online news articles. It combines a trained **Support Vector Machine (SVM)** classifier with a **Google Chrome browser extension**, enabling users to analyze the credibility of any news article they are reading in real time.
+We developed a fake news detection system designed specifically for Philippine online news articles. It combines a trained **Support Vector Machine (SVM)** classifier with a **Google Chrome browser extension**, enabling users to analyze the credibility of any news article they are reading in real time.
 
 The system:
 - Extracts the text content of the active browser tab
